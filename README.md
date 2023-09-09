@@ -1,8 +1,4 @@
-# Astolfmale2
-
-Uhhhhhhhhhh
-
-something.
+# Astolfo Resource Pack
 
 ## Installation
 1. Click on releases on the right side.
